@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    display: flex;
+    min-height: 100vh;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    /* max-width: 1600px; */
+    margin: 0 auto;
+    /* padding: 20px; */
+}
+
+h1 {
+    padding-top: 25px;
+}
